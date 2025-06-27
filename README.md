@@ -1,4 +1,4 @@
-# Slump Admin Panel & Website
+# Admin Panel & Website
 
 A custom admin panel and website backend for managing user accounts, site content, and more—built with PHP, PDO/MySQL, and a jet-black cyberpunk aesthetic.
 
