@@ -39,3 +39,9 @@ A custom admin panel and website backend for managing user accounts, site conten
 Built off https://github.com/txvch original website which can be seen at https://txchnology.cc
 
 My Version can be seen @ https://slump.dev
+![opera_8Fj9anIhFv](https://github.com/user-attachments/assets/a70c19c8-279e-4c1b-a87b-9794596a0044)
+![opera_VcnaxqQOs7](https://github.com/user-attachments/assets/8cab08c7-e302-4250-b86f-7b346113aa02)
+![opera_mM9MKEZjvc](https://github.com/user-attachments/assets/3508a9f1-dbbf-45de-bac5-7373b67bda48)
+![opera_9AYFA4EHrq](https://github.com/user-attachments/assets/1c7f5b0e-af63-4e8a-a09b-05f7a22279c8)
+![opera_hkY9CmLPB9](https://github.com/user-attachments/assets/84c7b5ea-2373-41c1-a033-b41d5233d29b)
+![opera_keYHjvN5Dy](https://github.com/user-attachments/assets/f891e905-9d34-4cda-b25b-1057afc367cb)
