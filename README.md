@@ -38,4 +38,4 @@ A custom admin panel and website backend for managing user accounts, site conten
 
 Built off https://github.com/txvch original website which can be seen at https://txchnology.cc
 
-My Version can be seen @ slump.dev
+My Version can be seen @ https://slump.dev
