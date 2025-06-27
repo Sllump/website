@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'JetBrains Mono', monospace;
+  background: #07070a;
+  color: #e5e5e5;
+  line-height: 1.5;
+  padding: 1rem;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+header h1 {
+  font-size: 1.5rem;
+  color: #89CFF0;
+}
+header h1 span {
+  font-weight: 300;
+  color: #fff;
+}
+header nav a {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #aaa;
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  transition: background 0.2s, color 0.2s;
+}
+header nav a.active,
+header nav a:hover {
+  background: #89CFF0;
+  color: #07070a;
+}
+
+main section {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+.user-table th,
+.user-table td {
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #2a2a35;
+}
+.user-table thead {
+  background: #1a1a23;
+}
+.user-table tbody tr:nth-child(even) {
+  background: #11111a;
+}
+.user-table tbody tr:hover {
+  background: #1f1f2b;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+.badge.active {
+  background: #0f0;
+  color: #070;
+}
+.badge.suspended {
+  background: #f33;
+  color: #300;
+}
+
+.actions {
+  white-space: nowrap;
+}
+.btn-action {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 0.4rem;
+  text-decoration: none;
+  font-size: 0.8rem;
+  color: #ddd;
+  transition: color 0.2s;
+}
+.btn-action:hover {
+  color: #fff;
+}
+.btn-action img {
+  display: block;
+  width: 0.8em;
+  height: 0.8em;
+  margin-right: 0.25em;
+  filter: brightness(0) invert(1);
+}
+
+main {
+  margin-bottom: 2rem;
+}
