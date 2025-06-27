@@ -35,3 +35,7 @@ A custom admin panel and website backend for managing user accounts, site conten
    Build a forum/discussion board module for community engagement.  
 8. **Granular admin roles**  
    Multiple admin levels with permission restrictions on features and pages.
+
+Built off https://github.com/txvch original website which can be seen at https://txchnology.cc
+
+My Version can be seen @ slump.dev
